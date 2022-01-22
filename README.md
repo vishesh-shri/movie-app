@@ -1,5 +1,5 @@
 # movie-app
-Project Demo-URL ~ https://movieapplication.z13.web.core.windows.net/
+
 
 This application will provide latest movies synopsis and their ratings given by people.
 
